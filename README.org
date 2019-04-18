@@ -1,1 +1,5 @@
 * Minimal Spacemacs on Windows
+
+#+BEGIN_SRC bash
+cp -r private .init.el /path/to/.emacs.d/
+#+END_SRC
