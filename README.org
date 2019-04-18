@@ -1,4 +1,4 @@
-* Tiny Spacemacs to cope on Windows
+* Tiny Spacemacs to cope on Windows using Vanilla Emacs
 
 #+BEGIN_SRC bash
 cp -r private .init.el /path/to/.emacs.d/
